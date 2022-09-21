@@ -1,5 +1,7 @@
 # <Module 1 - Horiseon optimization>
 
+Website : https://tab-y.github.io/horiseon_refactor/
+
 ## Description
 
 This project was an attempt to optimize HTML and CSS code for accessibility while maintaining functionality of the website. It was built to proving ease of use with screen reader assistance in mind with use of alt text and some other small changes.
