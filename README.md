@@ -1,17 +1,25 @@
-# Module 1 Challenge
-Horiseon Code optimization
+# <Module 1 - Horiseon optimization>
 
 ## Description
 
-This module is to update and optimize code in a clear and concise manner. To improve website accessibility and structure, so it is optimized for search engines.
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
+
+This project was an attempt to optimize HTML and CSS code for accessibility while maintaining functionality of the website. It was built to proving ease of use with screen reader assistance in mind with use of alt text and some other small changes.
 
 ## Installation
- 
+
 N/A
 
 ## Usage
 
-To optimize code for accessibility
+added diverse code for greater ease of elements, improved accessibility by adding alt text. Maintained the same look and function of the website.
+
+!usage screenshot(./assets/images/usage-screenshot.png)
 
 ## Credits
 
